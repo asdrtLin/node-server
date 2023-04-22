@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "358915905@qq.com",
+      "password": "$2a$10$u/a78hQe4SFZ1Xg0GjsjUeSacQ/paW05h.px2VLvkGwI7Qs9S3gMG",
+      "userName": "张三",
+      "id": 1
+    }
+  ]
+}
